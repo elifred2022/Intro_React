@@ -74,3 +74,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # clase video 6; maquetacion todo machine
 
 # clase video 7; CSS en React
+
+# case video 8; Manejo de eventos
