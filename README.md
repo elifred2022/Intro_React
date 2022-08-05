@@ -72,3 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # clase videom 5; componentes y elementos en react
 
 # clase video 6; maquetacion todo machine
+
+# clase video 7; CSS en React
