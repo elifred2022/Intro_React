@@ -79,3 +79,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # clase video 9; manejo del estado
 
+# Clase video 10; contando y buscando todos
+
+
+
