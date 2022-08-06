@@ -81,5 +81,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # Clase video 10; contando y buscando todos
 
-
+# clase video 11; Completando y eliminando TODOs
 
