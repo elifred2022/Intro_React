@@ -76,3 +76,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # clase video 7; CSS en React
 
 # case video 8; Manejo de eventos
+
+# clase video 9; manejo del estado
+
