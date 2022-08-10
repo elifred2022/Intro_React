@@ -83,3 +83,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # clase video 11; Completando y eliminando TODOs
 
+# clase video 12; organizacion de archivos y carpetas
+
