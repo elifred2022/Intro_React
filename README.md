@@ -90,3 +90,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 localStorage.setItem('TODOS_V1', JSON.stringify(defaultTodos))
 
 localStorage.getItem('TODOS_V1')
+
+# clase video 14; Custom Hook para Local Storage
+
+const [item, setItem] = React.useState(parsedItem); // unos de los hooks de react oficilaes
+
