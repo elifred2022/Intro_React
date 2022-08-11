@@ -95,3 +95,5 @@ localStorage.getItem('TODOS_V1')
 
 const [item, setItem] = React.useState(parsedItem); // unos de los hooks de react oficilaes
 
+# CLASE VIDEO 15; MANEJO DEEFECTOS
+
