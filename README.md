@@ -97,3 +97,4 @@ const [item, setItem] = React.useState(parsedItem); // unos de los hooks de reac
 
 # CLASE VIDEO 15; MANEJO DEEFECTOS
 
+# clase video 16; React Context: estado compartido
