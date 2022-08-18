@@ -98,3 +98,9 @@ const [item, setItem] = React.useState(parsedItem); // unos de los hooks de reac
 # CLASE VIDEO 15; MANEJO DEEFECTOS
 
 # clase video 16; React Context: estado compartido
+
+# clase video 17; useContext
+
+
+
+El shortcut para seleccionar todas las palabras iguales sin seleccionar una por una, es: dar click sobre la palabra (localStorageItem) y luego Ctrl+Shift+L
