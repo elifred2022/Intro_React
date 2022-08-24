@@ -101,6 +101,8 @@ const [item, setItem] = React.useState(parsedItem); // unos de los hooks de reac
 
 # clase video 17; useContext
 
-
+# clase video 18; Portales: teletransportación de componentes
 
 El shortcut para seleccionar todas las palabras iguales sin seleccionar una por una, es: dar click sobre la palabra (localStorageItem) y luego Ctrl+Shift+L
+
+
